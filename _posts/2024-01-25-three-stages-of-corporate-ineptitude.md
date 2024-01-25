@@ -18,7 +18,17 @@ When joining a new place, my immediate fear was that I did, in fact, **not know 
 
 In effect, during that particular period, my state would be a quantum superposition of trying to learn as much as I could starting from the most basic of questions and trying to bring immediate value to confirm (to myself, mostly) that I was useful.
 
+My fear and my eagerness originated from the same source: I was now in a brave new world, and the only soma available to me was adapting as fast as possible. 
 
+
+## They don't know jack shit
+
+Some months down the line, I would be trusted with the "keys to the kingdom" (mind you, it was always a small kingdom, being able to push stuff to prod, set up variables for data gathering on our website or defining the architecture of some of our marketing schemas, always within the realm of data and BI) and my critical eye would go from looking inward for any faux-pas I might incur, to observing my surroundings. Like Sauron's tireless eye, I'd scour our ways of working, or our existing set-up until I would locate the structural issues that couldn't be fixed with a simple one-man job, and would require collaboration between peers and a good amount of buy-in from the powers that be. I'd then try to change them, or argue that we should know better. Sometimes I'd find that my colleagues were missing some contextual information that seemed (to me) to indicate a crucial defficit within our organization. Other times I would encounter leftovers from a by-gone era (old tags on sites, still loading; tables in production being dropped and updated tirelessly each day with no real consumption or querying pointing at them; or 3 dashboards that did the same thing, created one year apart) and I would invariably grow frustrated.
+How could it be that me, a qualified moron, was finding these issues, yet the rest of the company could continue marching forward without grinding to a stop under their weight?
+Clearly,  our upper management was at fault and their constant urge to find the next thing and push us forward was motivated by the very evident fact that if we stopped moving we would fall into a precipice, much like the Coyote chasing the road-runner. 
+
+
+## We don't know shit, but we try our best
 
 
 
