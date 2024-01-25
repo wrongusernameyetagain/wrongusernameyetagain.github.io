@@ -43,6 +43,10 @@ Shortly after, I check through the recruiter messages in between meetings and pr
 And the cycle continues.
 
 
+## Where's Jack? He was the shit!
 
+As I find my next diagonal move and remind myself that maybe next time I could be a rook and not a bishop, and I embark on the long and tedious process of creating a handover document for the next poor guy that will have to mantain my shitty ideas, I pick the colleagues I bonded with to a degree that surpasses professional courtesy and drags them dangerously close to "people I'd actually like to spend time with", and I add them to whatever social media I might be using at the time (or I train a new messenger pidgeon to go over to their place and back).
+I pack my silly vagrant bag with the swag I obtained in the last 9 to 18 months at JOB_PLACE, leave some well intentioned jokes in non critical documents (or create complex red herrings and guessing games with automated "send-later" messages, which will act as a dead-man trigger before IT deactivates my account, sending quizzes to team chats as a spooky ghost), and say "so long".
+Professional curiosity is, in my case, fed with professional courtesy, so I try to keep in touch with some co-workers for a short period of time. I want to know if their last big project was a success, or if finally "we" (they) are going with decision B instead of A. I learn from them that someone mentioned me in a positive light, explaining to a new person that yes, my stuff wasn't built extremely well, but "he did the best he could at the time."
 
 <a id="universal-ish"></a> *: One of these days, I should really delve into what universal-ish means. Are we Pareto-ing the universe? Do we consider an event that happens within 80% of the population significant enough to say, "The entire population goes through this!" ? Or am I hiding my complete lack of understanding of probability under the power bestowed by the mightiest of suffixes, Ish. Probably the second one.
