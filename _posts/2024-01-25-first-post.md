@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "My First Post"
-date: 2024-01-25 12:00:00 -0000
-categories: category1 category2
+title: "The three stages of corporate ineptitude"
+date: 2024-01-25
+categories: corpo
 ---
-# Welcome to My Blog
+# The three stages of corporate ineptitude
 
-This is my first blog post. Happy reading!
+I've had a rocky relationship with commitment. Which is to say my most enduring trait in the professional world has been to quickly realize that I could find something better out there, and move on to the next adventure.
