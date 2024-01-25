@@ -11,26 +11,6 @@ authors:
     github: https://github.com/wrongusernameyetagain
     description: "I used to have more fun when I wasn't aware I was having fun"
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-  - jekyll-figure
-
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-
-# Pagination
-paginate: 6
-paginate_path: /page:num/
 
 # Other
 highlighter: rouge
