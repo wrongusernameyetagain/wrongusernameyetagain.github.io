@@ -1,5 +1,22 @@
 ---
-title: Welcome to my blog
+layout: default
+title: Random ramblings of robust resonance
+image: assets/images/social-image.png
+  
 ---
 
-Expressing opinions is a muscle. It requires frequent use to avoid atrophying, and here I am launching a new year's resolution to exercise. 
+<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    {% for post in paginator.posts %}
+        {% include postbox.html %}
+    {% endfor %}
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
