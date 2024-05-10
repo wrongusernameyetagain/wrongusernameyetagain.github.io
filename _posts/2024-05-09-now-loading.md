@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Now loading"
 categories: gaming
+comments: true
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-# layout: post
 excerpt_separator: "<!--more-->"
 title: "The three stages of corporate ineptitude"
 categories: corpo
+comments: true
 ---
 
 I've had a rocky relationship with commitment. For the most part, this has been confined to my professional activity, Which is to say my most enduring trait in the working world has been to quickly realize that I could find something better out there, that whatever value tag I had attached to myself on the last negotiation with reality wasn't enough, and then I was ready to move on to the next adventure. Like a cartoon of a kid pretending to be a vagrant from the 50s, I would pick up my stick, a colorful dotted and suspiciously large handkerchief and pack up my belongings.

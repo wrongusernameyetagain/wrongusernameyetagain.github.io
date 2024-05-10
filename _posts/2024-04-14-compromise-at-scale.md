@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Compromise at scale"
 categories: corpo
+comments: true
 ---
 
 My current job has an almost obsessive relationship with Japanese production principles. If my employer was a person, they'd approach you, unprompted, to tell you why katanas were superior to European folded steel.
