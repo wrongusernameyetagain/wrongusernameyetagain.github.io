@@ -2,7 +2,6 @@
 excerpt_separator: "<!--more-->"
 title: "Is 'meaningful' mean?"
 categories: corpo
-comments: true
 ---
 
 I’ve been struggling with feeling motivated for a while now, when it comes to work.

@@ -2,7 +2,6 @@
 excerpt_separator: "<!--more-->"
 title: "Now loading"
 categories: gaming
-comments: true
 ---
 
 
