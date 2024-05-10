@@ -98,17 +98,18 @@ tag_archive:
   path: /tags/
 
 
+repository: wrongusernameyetagain/wrongusernameyetagain.github.io
+
 comments:
-  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-dark" # "github-light" (default), "github-dark"
-    issue_term           : "pathname" # (default)
+    repo: wrongusernameyetagain/wrongusernameyetagain.github.io
+    issue-term: comment
+    theme: github-dark
+    label:
+
+# comments:
+#  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
+#  utterances:
+#    theme                : "github-dark" # "github-light" (default), "github-dark"
+#    issue_term           : "pathname" # (default)
+    
