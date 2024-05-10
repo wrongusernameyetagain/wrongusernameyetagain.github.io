@@ -1,4 +1,5 @@
 ---
+excerpt_separator: "<!--more-->"
 title: "Compromise at scale"
 categories: corpo
 comments: true

@@ -1,8 +1,10 @@
 ---
+excerpt_separator: "<!--more-->"
 title: "Is 'meaningful' mean?"
 categories: corpo
 comments: true
 ---
+
 I’ve been struggling with feeling motivated for a while now, when it comes to work.
 And as much as I’d like to say it’s my current job, the reality is that there’s an undercurrent that has been building up throughout the years, and my present situation is just circumstantial at this point. Should I pack up and leave and find the golden land of endless opportunities and cool-people™, my current impression (and, to be frank, legitimate fear) is that I would bring misery with myself there. The idea I’m toying with is that while leaving has always been an option, if I want to feel better, I have to be willing to “fight” for my patch of land. And this means staying long enough in a place to be able to say, “I did this,” and by extension, “this is me.”
 

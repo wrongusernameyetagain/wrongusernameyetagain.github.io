@@ -1,4 +1,5 @@
 ---
+excerpt_separator: "<!--more-->"
 title: "Now loading"
 categories: gaming
 comments: true
@@ -9,7 +10,9 @@ comments: true
 When I was around 12 or 13, there was a popular game in Argentina making the rounds in every internet cafe.
 It was free,  online, had very low requirements, and best of all, it was made by a local team.
 The game's name was [Argentum Online.](https://en.wikipedia.org/wiki/Argentum_Online)
+
 <!--more-->
+
 I remember spending hours going to dinky shops, paying for two or three hours in advance, sitting down on a crusty chair, handling musty, unwashed peripherals, waiting for either DeepFreeze or some admin setup to unlock my station. 
 
 
