@@ -102,10 +102,10 @@ repository: wrongusernameyetagain/wrongusernameyetagain.github.io
 
 comments:
   utterances:
-    repo: wrongusernameyetagain/wrongusernameyetagain.github.io
-    issue-term: comment
-    theme: github-dark
-    label:
+    repo: "wrongusernameyetagain/wrongusernameyetagain.github.io"
+    issue-term: "url"
+    theme: "github-dark"
+    crossorigin: "anonymous"
 
 # comments:
 #  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
