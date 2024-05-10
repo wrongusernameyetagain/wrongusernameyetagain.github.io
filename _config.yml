@@ -32,6 +32,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -56,7 +57,7 @@ plugins:
 
 author:
   name   : "Paul Lipsitz"
-  avatar : "/assets/images/slime_guy.jpg"
+  avatar : "/assets/images/slime_guy.png"
   bio    : "I write stuff from time to time, to avoid getting madder."
   links:
     - label: "GitHub"
