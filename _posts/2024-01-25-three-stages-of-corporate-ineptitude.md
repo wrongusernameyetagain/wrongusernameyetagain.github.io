@@ -1,5 +1,6 @@
 ---
-layout: post
+# layout: post
+excerpt_separator: "<!--more-->"
 title: "The three stages of corporate ineptitude"
 categories: corpo
 ---
