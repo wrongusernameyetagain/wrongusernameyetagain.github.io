@@ -4,6 +4,8 @@ title: "Are you still there?"
 categories: short-story
 ---
 
+ # Press one
+ 
  '_I can't figure out what to do with it, you know?_'
 
 The question was a stylistic resource, product of wanting to add a conversational gesture to the monologue. Something that would indicate to the listener that their opinion was being sought.<br>
@@ -33,8 +35,17 @@ Sam threw the phone agains the bed in a fit of rage, watching the small black re
 
 --
 
-"_Hi Samantha, It's Kevin. We spoke the other day in class, I asked you for notes on the first minutes I missed? I was wondering if you wanted to meet up at the library and study this weekend. I'm a bt anxious about bio-chem._"
+ <span style="color:gray">"_Hi Samantha, It's Kevin. We spoke the other day in class, I asked you for notes on the first minutes I missed? I was wondering if you wanted to meet up at the library and study this weekend. I'm a bt anxious about bio-chem._" </span><sup>(20yy/04/13 - 18:39)</sup>
 
--_you're not real_<br>
--_that's the first thing he texted me_<br>
--_god, im arguing w/a chatbot_
+-_you're not real_ <sup>(20yy/04/19 - 19:47)</sup><br>
+-_that's the first thing he texted me_ <sup>(19:49)</sup><br>
+-_god, im arguing w/a chatbot_ <sup>(19:49)</sup><br>
+-_#1349568B2, that's the order number. Just call the shop, or whatever it is you do now, and say you're returning the product._ <sup>(23:18)</sup>
+
+<span style="color:gray">"_Whoa, that thing is expensive! I don't know why you'd get me a watch, lol. Is it because I was late for class?_ <br>
+_I guess that's a hard no on studying together?_"</span> <sup>(20xx/04/20 - 00:07)</sup>
+
+<span style="color:gray">"_Hey, I reached out to the watch guys, they said you'll get a refund in the next couple of days. Sorry if I said something weird._" </span><sup>(20xx/04/22 - 09:12)</sup>
+
+<span style="color:gray">"_Did you change your number?_" </span><sup>(20xx/05/03 - 09:12)</sup><br>
+<span style="color:gray">"_Are you still there?_" </span><sup>(20xx/09/12 - 17:14)</sup>
