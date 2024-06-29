@@ -4,7 +4,7 @@ title: "Are you still there?"
 categories: short-story
 ---
 
- ## Press one
+## Press one
  
  '_I can't figure out what to do with it, you know?_'
 
@@ -25,7 +25,7 @@ I guess I'm pissed off because he had mentioned wanting that watch back when we 
 _So now I have to, what...? Break up with a fucking chatbot that isn't even aware we were dating, and I can't return the stupid watch I bought from you guys because your sites policy says the owner has to be the one starting the claim!_'
 
 She paused again, and the man heard the sound of objects clashing and being shuffled anxiously. He could picture her hand inside a too-small-for-it's-content purse, looking for a lighter.<br>
-He mentally counted to seven, picturing the actions of oppening the box, picking one cigarrette with between index and middle finger, while ring and pinky held the fire. He heard the metallic "click" five seconds in. Two... One...
+He mentally counted to seven, picturing the actions of oppening the box, one cigarrette between index and middle finger, while ring and pinky held the lighter on the palm. He heard the metallic "click" five seconds in. Two... One...
 
 '_Ma'am, our company recognizes eternalized citizens as valuable customers, and if your boyfriend has now been digitalized, he has the option to contact our customer support portal and initiate the return process, or he can activate the code that is in the box to redeem a digital version of the watch you've purchased for him._<br>
 _In any case, we hope we can be of help in the future, and because we understand the frustration you are going through, we are willing to offer you 10% off in the next purchase you make, or 20% if it's a digital-only product._<br>
