@@ -40,7 +40,10 @@ If there was a single guiding objective for the oxymoron that is Business Intell
 So we go back to the difficult analysis, and the difficult understanding. If I've spent a considerable amount of time observing something to glean its properties and functioning, the second part of the task becomes that much more important. I need to be able to convey these learnings into tangible outputs.<br>
 My work needs to be the shorthand that allows decision makers to make decisions with some notion of understanding of "what will happen if I press this button".
 
-![a decision maker photographed in the wild](https://archive.junkee.com/wp-content/uploads/2015/04/button.jpg_)
+
+**A picture of a decision maker in the wild**<br>
+![A picture of a decision maker in the wild](/assets/images/buttons.jpg)
+
 
 I believe there is an important role in new research and development, a most vital one. But a data person isn't engaging in the creation of completely new stuff most of the time. They're engaged in translating. 
 
